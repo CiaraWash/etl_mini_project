@@ -4,11 +4,11 @@
 
 For this project, we set out to go through the Extract, Transform, and Load phases. For the first step of extraction, we identified three large datasets from the Bureau of Economic Analysis. The datasets include:
 
-Personal Consumption Expenditures: This dataset shows a breakdown of expenditures for personal consumption at a statewide level for a variety of categories of goods and services.
+Expenditures_Year_AllAreas_1997_2021.csv: This dataset shows a breakdown of expenditures for personal consumption at a statewide level for a variety of categories of goods and services.
 
-Jobs: This dataset shows the breakdown of jobs by industry on a state level.
+Jobs_Industry_AllAreas_1998_2021.csv: This dataset shows the breakdown of jobs by industry on a state level.
 	
-Personal Income on state level per capita: This shows the state level income and per capita.
+Income_AllAreas_1998_2021.csv: This shows the state level personal income including a per capita breakdown.
 
 The datasets are of CSV formats. We intend to transform the data by cleaning the datasets to remove unnecessary columns, removal of NaN values, formatting at values to make them viable for any data manipulation (change data types, removal of symbols, etc), narrowing down the years of focus, and removal of data aggregated on a national or regional level (as opposed to a statewide level). Once the data has been cleaned, we will join them into a single dataset.
 
