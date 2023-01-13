@@ -1,4 +1,4 @@
-# etl_mini_project
+# Extract – Transform – Load Mini Project (Project 2)
 
 ** Project Proposal ** 
 
