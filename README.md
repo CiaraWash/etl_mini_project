@@ -14,3 +14,4 @@ The datasets are of CSV formats. We intend to transform the data by cleaning the
 
 Once the datasets have been extracted and transformed, we will load them into a Postgres SQL database.
 
+NOTE: The technical report for this project is located within the ETL_Project folder in a Word file entitled "Technical_Report.docx"
